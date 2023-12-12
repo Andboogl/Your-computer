@@ -3,7 +3,7 @@
 
 from sys import argv
 from PyQt6.QtWidgets import QApplication
-from src.app import MainWindow
+from app import MainWindow
 
 
 def main():
